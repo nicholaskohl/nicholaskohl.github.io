@@ -61,3 +61,8 @@ footer{
     margin: 0 0.5rem;
     text-decoration: none;
 }
+.responsive-image {
+    max-width: 100%;
+    width: auto;
+    height: auto;
+}
